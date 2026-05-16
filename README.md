@@ -4,6 +4,12 @@ A responsive and modern web platform developed for InAmigos Foundation to create
 
 ---
 
+# Live Website
+
+[Visit Website](https://akanshawalia10-eng.github.io/InAmigos-Foundation-Web-Platform/)
+
+---
+
 # Project Objective
 
 The main objective of this project is to build a professional and accessible digital platform for InAmigos Foundation that effectively represents the organization’s mission, values, and impact on society.
